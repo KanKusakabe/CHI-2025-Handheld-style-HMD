@@ -8,6 +8,9 @@ _Preview image coming soon_
 
 This project provides 3D printable designs for attachments that convert a standard HMD (Meta Quest 3) and its controllers into a handheld system. The attachments are designed to be printed using common 3D printers and assembled with a 1/4-inch bolt.
 
+## WARNING
+Our implementation may damage hardware! You use our tools at your own risk and responsibility! If you don't like these terms, don't use this file!
+
 ## Files
 
 - **Attachment-main.stl**: Attachment for the Meta Quest 3 headset.
