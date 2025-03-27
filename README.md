@@ -4,7 +4,7 @@ This repository contains the 3D design files (in STL format) for a handheld-styl
 
 ## Project's Video
 
-[!['Video preview']('http://img.youtube.com/vi/eAdcVU5cGNM/default.jpg')]('https://youtu.be/eAdcVU5cGNM')
+[![Video preview](http://img.youtube.com/vi/eAdcVU5cGNM/default.jpg)](https://youtu.be/eAdcVU5cGNM)
 
 ## Attachments Preview
 
