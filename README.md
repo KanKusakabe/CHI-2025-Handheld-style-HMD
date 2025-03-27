@@ -2,20 +2,39 @@
 
 This repository contains the 3D design files (in STL format) for a handheld-style attachment system for the Meta Quest 3. The design includes attachments for the headset as well as for both the left-hand and right-hand controllers.
 
-_Preview image coming soon_
+## Project's Video
+
+[!['Video preview']('http://img.youtube.com/vi/eAdcVU5cGNM/default.jpg')]('https://youtu.be/eAdcVU5cGNM')
+
+## Attachments Preview
+
+<div align="start">
+  <img src="./figures/Attachment-main.gif" width="200" style="margin-right:10px;">
+  <img src="./figures/Attachment-lefthand.gif" width="200" style="margin-right:10px;">
+  <img src="./figures/Attachment-righthand.gif" width="200">
+</div>
 
 ## Overview
 
 This project provides 3D printable designs for attachments that convert a standard HMD (Meta Quest 3) and its controllers into a handheld system. The attachments are designed to be printed using common 3D printers and assembled with a 1/4-inch bolt.
 
 ## WARNING
+
 Our implementation may damage hardware! You use our tools at your own risk and responsibility! If you don't like these terms, don't use this file!
 
 ## Files
 
 - **Attachment-main.stl**: Attachment for the Meta Quest 3 headset.
+
+  <img src="./figures/Attachment-main.gif" width="300">
+
 - **Attachment-lefthand.stl**: Attachment for the left-hand controller.
+
+  <img src="./figures/Attachment-lefthand.gif" width="300">
+
 - **Attachment-righthand.stl**: Attachment for the right-hand controller.
+
+  <img src="./figures/Attachment-righthand.gif" width="300">
 
 ## Features
 
@@ -37,9 +56,8 @@ Our implementation may damage hardware! You use our tools at your own risk and r
 
 ## Publication
 
-A paper describing this work will be presented at CHI2025. DOI and related publication details will be provided once available. (Coming Soon)
-
-Coming Soon.
+Yuki Abe*, Kan Kusakabe*, Myungguen Choi*, Daisuke Sakamoto, Tetsuo Ono. *Joint first authors. 2025. ACM CHI Conference on Human Factors in Computing Systems (CHI'2025), ACM.
+https://doi.org/10.1145/3706598.3713874
 
 If you use this project in your research, please cite our work as follows:
 
