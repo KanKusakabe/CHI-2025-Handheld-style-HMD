@@ -63,6 +63,19 @@ If you use this project in your research, please cite our work as follows:
 
 ```bibtex
 @inproceedings{handheldHMD2025,
-  Coming Soon.
+  author = {Abe, Yuki and Kusakabe, Kan and Choi, Myungguen and Sakamoto, Daisuke and Ono, Tetsuo},
+  title = {Understanding Usability of VR Pointing Methods with a Handheld-style HMD for Onsite Exhibitions},
+  year = {2025},
+  isbn = {9798400713941},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3706598.3713874},
+  doi = {10.1145/3706598.3713874},
+  booktitle = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
+  articleno = {554},
+  numpages = {21},
+  keywords = {Handheld-style HMD Interface, Virtual Reality (VR), Usability, Pointing Methods, Onsite VR Exhibition, Inexperienced VR Users},
+  location = {Yokohama, Japan},
+  series = {CHI '25}
 }
 ```
